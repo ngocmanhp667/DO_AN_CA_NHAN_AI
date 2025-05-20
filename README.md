@@ -13,6 +13,11 @@ Hiểu cách hoạt động của các thuật toán tìm kiếm trong AI.
 So sánh đường đi, thời gian, số bước giải quyết của mỗi thuật toán.
 
 Tạo trò chơi mang tính tương tác và thực hành.
+Giao diện người chơi:
+![image](https://github.com/user-attachments/assets/60571bea-3c9c-4255-94f8-bb1efa336379)
+
+Thống kê chi phi khi sử dụng từng thuật toán:
+![image](https://github.com/user-attachments/assets/a786cb0e-b5d1-42e2-af12-d719b174ee21)
 
 🔍 Các Thuật Toán Hỗ Trợ
 
